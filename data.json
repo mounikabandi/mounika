@@ -1,0 +1,55 @@
+{"details":{
+  "image":"profile.jpg",
+  "name":"mounika",
+  "phoneno":"9876543210",
+  "email":"mounikachowdary906@gmail.com",
+  "address":"DVR & Dr. HS MIC College of Technology"
+},
+"career": {
+  "info":"To pursure a challenging career and to be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills"
+
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC College",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+  {
+  "qualification":"Intermediate",
+  "institute":"Sri Chaitanya",
+  "year":"2014-2016",
+  "percentage":"98%"
+},
+{
+  "qualification":"SSC",
+  "institute":"RBPS",
+  "year":"2013-2014",
+  "percentage":"97%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating systems",
+  "info":["Windows,Linux,Ubuntu,Dos"]
+}
+],
+"achievements":[
+  {
+  "title":"sports",
+  "info":"won first prize in shuttle"
+},
+{
+"title":"prizes",
+"info":"awarded as a best student"
+}
+]
+}
